@@ -1,0 +1,81 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="438410082" file="C:\Users\Gebruiker\FAUbox\MATLAB\driver_evader\Source code\SheepHerdingGame.prj" location="C:\Users\Gebruiker\FAUbox\MATLAB\driver_evader\Source code" name="SheepHerdingGame" target="target.mlapps" target-name="Package App">
+    <param.appname>SheepHerdingGame</param.appname>
+    <param.authnamewatermark>Daniel Veldman</param.authnamewatermark>
+    <param.email>daniel.veldman@math.fau.de</param.email>
+    <param.company>Chair in Dynamics, Control, and Numerics</param.company>
+    <param.icon>${PROJECT_ROOT}\SheepHerdingGame_resources\icon_24.png</param.icon>
+    <param.icons>
+      <file>${PROJECT_ROOT}\SheepHerdingGame_resources\icon_48.png</file>
+      <file>${PROJECT_ROOT}\SheepHerdingGame_resources\icon_24.png</file>
+      <file>${PROJECT_ROOT}\SheepHerdingGame_resources\icon_16.png</file>
+    </param.icons>
+    <param.summary>A sheep herding game developed for the Lange Nacht der Wissenschaften Erlangen-Furth-Nuernberg 2022.</param.summary>
+    <param.description>Main rules:
+The dog should drive sheep to the target (red). 
+You can steer the dog with the arrow keys. 
+The sheep are afraid of the dog and of the fences. 
+The farther the sheep are from the target, the faster the cost increases. 
+The level is completed when all sheep stand still near the target.</param.description>
+    <param.screenshot>${PROJECT_ROOT}\icon_test.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>7b0239e5-e5a2-4054-96a8-2b0dd94f6631</param.guid>
+    <unset>
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\SheepHerdingGame.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\img_dog_alpha.png</file>
+      <file>${PROJECT_ROOT}\img_target_alpha.png</file>
+      <file>${PROJECT_ROOT}\sheep_dynamics.m</file>
+    </fileset.depfun>
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\img_fence_post_alpha.png</file>
+      <file>${PROJECT_ROOT}\img_sheep_alpha.png</file>
+      <file>${PROJECT_ROOT}\load_level1_data.m</file>
+      <file>${PROJECT_ROOT}\load_level2_data.m</file>
+      <file>${PROJECT_ROOT}\load_level3_data.m</file>
+      <file>${PROJECT_ROOT}\load_level4_data.m</file>
+      <file>${PROJECT_ROOT}\scores_level1.mat</file>
+      <file>${PROJECT_ROOT}\scores_level2.mat</file>
+      <file>${PROJECT_ROOT}\scores_level3.mat</file>
+      <file>${PROJECT_ROOT}\scores_level4.mat</file>
+    </fileset.resources>
+    <fileset.package />
+    <build-deliverables>
+      <file location="C:\Users\Gebruiker\FAUbox\MATLAB\driver_evader" name="Source code" optional="false">C:\Users\Gebruiker\FAUbox\MATLAB\driver_evader\Source code</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2019b</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
