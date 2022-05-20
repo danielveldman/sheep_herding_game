@@ -1,4 +1,4 @@
-# sheep herding game
+# Sheep Herding Game
 
 A sheep herding game in MATLAB developed for the Lange Nacht der Wissenscaften Erlangen-Furth-Nuernberg 2022. 
 
