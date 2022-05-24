@@ -11,7 +11,7 @@ Main rules:
 
 ## Installation
 
-1. Download the file SheepHerdingGame.mlappinstall. 
+1. Download the file [SheepHerdingGame.mlappinstall](SheepHerdingGame.mlappinstall).
 2. Double click to open it with Matlab. 
 3. Click 'Install' in the dialogue box that opens. 
 4. You can now find the sheep herding game under the Apps tab in matlab. Click it to play. 
