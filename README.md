@@ -18,7 +18,7 @@ Main rules:
 
 ## Advertisement
 
-Below is the German advertisement.
+Below is the advertisement in German and in English. 
 
 #### Optimal control of sheep flocks
 
