@@ -20,5 +20,11 @@ Main rules:
 
 Below is the German advertisement.
 
-Optimale Steuerung von einer Schafherde
+#### Optimal control of sheep flocks
+
+Controlling a large flock of sheep is an example of the complex dynamic optimization problems that we study in the Chair in Dynamics, Control, and Numerics. 
+You are invtied to test the difficulties in an interactive computer game. Can you beat our algorithm?
+
+#### Optimale Steuerung von einer Schafherde
+
 Das Steuern einer großen Herde Schafe mit Schäferhunden ist ein Beispiel komplexer dynamischer Optimierungsprobleme, die wir am Lehrstuhl für Dynamics, Control and Numerics untersuchen. In einem interaktiven Computerspiel sind Sie eingeladen, selbst die Schwierigkeiten des Problems aus zu testen. Können Sie unseren Algorithmus schlagen?
