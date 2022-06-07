@@ -9,7 +9,7 @@ Main rules:
 * The farther the sheep are from the target, the faster the cost increases. 
 * The level is completed when all sheep stand still near the target.  
 
-![screen shot](https://github.com/danielveldman/sheep_herding_game/blob/main/screen_shot.PNG?raw=true "Screen shot from the sheep herding game")
+![screen shot](screen_shot.PNG?raw=true "Screen shot from the sheep herding game")
 
 ## Installation
 
