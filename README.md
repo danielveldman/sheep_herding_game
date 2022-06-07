@@ -1,5 +1,7 @@
 # Sheep Herding Game
 
+![Alt text](screen_shot.jpg?raw=true "Title")
+
 A sheep herding game in MATLAB developed for the Lange Nacht der Wissenscaften Erlangen-Furth-Nuernberg 2022. 
 
 Main rules:
