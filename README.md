@@ -1,6 +1,6 @@
 # Sheep Herding Game
 
-![Alt text](screen_shot.jpg?raw=true "Title")
+![Alt text](https://github.com/danielveldman/sheep_herding_game/blob/main/screen_shot.PNG?raw=true "Title")
 
 A sheep herding game in MATLAB developed for the Lange Nacht der Wissenscaften Erlangen-Furth-Nuernberg 2022. 
 
